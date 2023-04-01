@@ -1,8 +1,8 @@
-### Olá, eu sou o Braz Amorim 👋
-![BrazAC GitHub stats](https://github-readme-stats.vercel.app/api?username=BrazAC&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrazAC)](https://github.com/BrazAC/github-readme-stats)
+## Olá 👋
+Meu nome é Braz Amorim sou estudante de engenharia elétrica na UFCG, voluntário ativo do capítulo RAS-UFCG e pesquisador voluntário no laboratório embedded. Tenho grande interesse em robótica e automação, projetos open-source e afins.
 
-### Tecnologias que estou usando ou tive contato
+
+## :computer: Tecnologias que estou usando ou tive contato
 
 **Microcontroladores**
 <div style="display: inline_block><br/>
@@ -28,6 +28,9 @@
   <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div><br/>
 
-Estudante de engenharia elétrica na UFCG e voluntário na RAS - UFCG, encantado por robótica e automação.
+## :bar_chart: Alguns Status
+![BrazAC GitHub stats](https://github-readme-stats.vercel.app/api?username=BrazAC&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrazAC)](https://github.com/BrazAC/github-readme-stats)
+
                                                                                                                                   
 
