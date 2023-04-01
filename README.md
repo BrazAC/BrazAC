@@ -15,6 +15,7 @@
 <div style="display: inline_block><br/>
   <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img align="center" alt="Arduino IDE" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img align="center" alt="Arduino IDE" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
 </div><br/>
 Estudante de engenharia elétrica na UFCG e voluntário na RAS - UFCG, encantado por robótica e automação.
                                                                                                                                   
