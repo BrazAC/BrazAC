@@ -1,6 +1,7 @@
-## Olá 👋
-Meu nome é Braz Amorim sou estudante de engenharia elétrica na UFCG, voluntário ativo do capítulo RAS-UFCG e pesquisador voluntário no laboratório embedded. Tenho grande interesse em robótica e automação, projetos open-source e afins.
-
+##
+<p align="center">
+  <img width="750" src="src/gif github (1).gif" />
+</p>
 
 ## :computer: Tecnologias que estou usando ou tive contato
 
@@ -31,6 +32,6 @@ Meu nome é Braz Amorim sou estudante de engenharia elétrica na UFCG, voluntár
 ## :bar_chart: Alguns Status
 ![BrazAC GitHub stats](https://github-readme-stats.vercel.app/api?username=BrazAC&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrazAC)](https://github.com/BrazAC/github-readme-stats)
-
-                                                                                                                                  
-
+                                                                                                                          
+## Um pouco sobre mim
+Meu nome é Braz Amorim sou estudante de engenharia elétrica na UFCG. Atualmente participo da diretoria do capítulo RAS-UFCG (IEEE) e realizo pesquisa voluntária na área de industria 4.0 dentro do laboratório EMBEDDED. Tenho grande interesse em robótica e automação, projetos open-source e afins.
