@@ -1,8 +1,9 @@
 ##
+<!--
 <p align="center">
   <img width="750" src="src/gif github (1).gif" />
 </p>
-
+-->
 ## :computer: Tecnologias que estou usando ou tive contato
 
 **Microcontroladores**
