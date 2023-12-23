@@ -1,4 +1,4 @@
-## Olá, meu nome é Braz Amorim
+## Hello, my name is Braz Amorim
 
 <!--
 <p align="center">
