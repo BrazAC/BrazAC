@@ -14,5 +14,5 @@
   
 #### Modding
 <div style="display: inline_block"><br/>
-  <img align="center" src="https://img.shields.io/badge/java-f7df1e?style=for-the-badge&logo=java&logoColor=white">
+  <img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--t_ci0avu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Java-ED8B00%3Fstyle%3Dfor-the-badge%26logo%3Dopenjdk%26logoColor%3Dwhite">
 <div>
