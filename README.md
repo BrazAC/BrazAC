@@ -1,6 +1,6 @@
 ## Hello, my name is Braz Amorim  
 
-### Passionate about learning
+### Love for learning
 
 :bookmark: Computer science undergraduate  
 :school: UFMT - Araguaia Campus
