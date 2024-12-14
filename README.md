@@ -2,5 +2,5 @@
 
 ### Passionate about learning
 
-Computer science undergraduate  
-UFMT - Araguaia Campus
+:bookmark: Computer science undergraduate  
+:school: UFMT - Araguaia Campus
